@@ -1,1 +1,1 @@
-# grip-basic-banking
+# grip-banking-system
